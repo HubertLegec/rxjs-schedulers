@@ -6,6 +6,7 @@
 # IntelliJ
 out/
 .idea/
+*.iml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -75,3 +76,5 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+
+dist/
