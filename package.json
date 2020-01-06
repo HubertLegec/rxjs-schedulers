@@ -1,0 +1,17 @@
+{
+  "name": "rxjs-schedulers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/schedulers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hubert Legęć <hubert.legec@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.4",
+    "typescript": "^3.7.4"
+  }
+}
